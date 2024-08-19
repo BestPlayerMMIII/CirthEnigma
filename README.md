@@ -25,12 +25,12 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
 
 **Cirth Enigma** is a fan-created, non-commercial game designed purely for entertainment purposes. It is not affiliated with or endorsed by J.R.R. Tolkien, The Tolkien Estate, or any official Tolkien licensors. All references to Tolkien’s work are used for the sole purpose of enriching the game experience and are not intended for commercial gain.
 
-# Download and Installation Instructions for Cirth Enigma
+# Download and Installation Instructions
 
 ## Windows
 
 1. **Download the ZIP File**
-   - Click on the link to download the **[Cirth Enigma ZIP file for Windows](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Windows/CirthEnigma_Windows.zip)**.
+   - Click on the link to download the **[Cirth Enigma ZIP file for Windows](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Windows/Cirth_Enigma-Windows.zip)**.
 
 2. **Extract the ZIP File**
    - Once the download is complete, locate the ZIP file in your Downloads folder or the location you selected.
@@ -46,7 +46,7 @@ To solve this *issue* you can: click `More info` and then click `Run anyway`.
 ## macOS
 
 1. **Download the ZIP File**
-   - Click on the link to download the **[Cirth Enigma ZIP file for macOS](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/macOS/CirthEnigma_macOS.zip)**.
+   - Click on the link to download the **[Cirth Enigma ZIP file for macOS](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/macOS/Cirth_Enigma-macOS.zip)**.
 
 2. **Extract the ZIP File**
    - Once the download is complete, locate the ZIP file in your Downloads folder or the location you selected.
@@ -61,13 +61,13 @@ To solve this *issue* you can: click `More info` and then click `Run anyway`.
 To solve this *issue* you can:
    - **Easy method**
       1. right-click (Control-click) on the app icon in the Finder window and select `Open` from the menu;
-      2. click `Open` in the confirmation dialog.
+      2. click `Open` in the confirmation dialog (enter your password if you're prompted).
    - if the easy method does not work: **follow the [steps provided by Godot](https://docs.godotengine.org/en/stable/tutorials/export/running_on_macos.html#app-is-signed-including-ad-hoc-signatures-but-not-notarized)**.
 
 ## Linux
 
 1. **Download the ZIP File**
-   - Click on the link to download the **[Cirth Enigma ZIP file for Linux](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Linux/CirthEnigma_Linux.zip)**.
+   - Click on the link to download the **[Cirth Enigma ZIP file for Linux](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Linux/Cirth_Enigma-Linux.zip)**.
 
 2. **Extract the ZIP File**
    - Once the download is complete, locate the ZIP file in your Downloads folder or the location you selected.
