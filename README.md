@@ -40,6 +40,9 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
    - Open the extracted folder.
    - Double-click on `Cirth Enigma.exe` to start the game.
 
+### Warning: Windows protected your computer
+To solve this *issue* you can: click `More info` and then click `Run anyway`.
+
 ## macOS
 
 1. **Download the ZIP File**
@@ -55,7 +58,11 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
    - Double-click on `Cirth Enigma` to launch the game.
 
 ### Warning: "Cirth Enigma" can't be opened because Apple can not check it for malicious software.
-To solve this *issue* you can follow the [steps provided by Godot](https://docs.godotengine.org/en/stable/tutorials/export/running_on_macos.html#app-is-signed-including-ad-hoc-signatures-but-not-notarized).
+To solve this *issue* you can:
+   - **Easy method**
+      1. right-click (Control-click) on the app icon in the Finder window and select `Open` from the menu;
+      2. click `Open` in the confirmation dialog.
+   - if the easy method does not work: **follow the [steps provided by Godot](https://docs.godotengine.org/en/stable/tutorials/export/running_on_macos.html#app-is-signed-including-ad-hoc-signatures-but-not-notarized)**.
 
 ## Linux
 
