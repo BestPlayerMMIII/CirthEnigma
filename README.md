@@ -30,7 +30,7 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
 ## Windows
 
 1. **Download the ZIP File**
-   - Click on the link to download the **[Cirth Enigma ZIP file for Windows](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Windows/CirthEnigma_Windows.zip)**.
+   - Click on the link to download the **[Cirth Enigma ZIP file for Windows](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Windows/Cirth_Enigma-Windows.zip)**.
 
 2. **Extract the ZIP File**
    - Once the download is complete, locate the ZIP file in your Downloads folder or the location you selected.
@@ -46,7 +46,7 @@ To solve this *issue* you can: click `More info` and then click `Run anyway`.
 ## macOS
 
 1. **Download the ZIP File**
-   - Click on the link to download the **[Cirth Enigma ZIP file for macOS](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/macOS/CirthEnigma_macOS.zip)**.
+   - Click on the link to download the **[Cirth Enigma ZIP file for macOS](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/macOS/Cirth_Enigma-macOS.zip)**.
 
 2. **Extract the ZIP File**
    - Once the download is complete, locate the ZIP file in your Downloads folder or the location you selected.
@@ -67,7 +67,7 @@ To solve this *issue* you can:
 ## Linux
 
 1. **Download the ZIP File**
-   - Click on the link to download the **[Cirth Enigma ZIP file for Linux](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Linux/CirthEnigma_Linux.zip)**.
+   - Click on the link to download the **[Cirth Enigma ZIP file for Linux](https://github.com/BestPlayerMMIII/CirthEnigma/raw/main/Linux/Cirth_Enigma-Linux.zip)**.
 
 2. **Extract the ZIP File**
    - Once the download is complete, locate the ZIP file in your Downloads folder or the location you selected.
