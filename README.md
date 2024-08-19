@@ -78,4 +78,4 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
 
 ## License
 
-This game is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
+This game is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
