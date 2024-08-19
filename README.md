@@ -54,6 +54,9 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
    - Navigate to `Cirth Enigma.app/Contents/MacOS/`.
    - Double-click on `Cirth Enigma` to launch the game.
 
+### Warning: "Cirth Enigma" can't be opened because Apple can not check it for malicious software.
+To solve this *issue* you can follow the [steps provided by Godot](https://docs.godotengine.org/en/stable/tutorials/export/running_on_macos.html#app-is-signed-including-ad-hoc-signatures-but-not-notarized).
+
 ## Linux
 
 1. **Download the ZIP File**
