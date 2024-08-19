@@ -61,7 +61,7 @@ To solve this *issue* you can: click `More info` and then click `Run anyway`.
 To solve this *issue* you can:
    - **Easy method**
       1. right-click (Control-click) on the app icon in the Finder window and select `Open` from the menu;
-      2. click `Open` in the confirmation dialog.
+      2. click `Open` in the confirmation dialog (enter your password if you're prompted).
    - if the easy method does not work: **follow the [steps provided by Godot](https://docs.godotengine.org/en/stable/tutorials/export/running_on_macos.html#app-is-signed-including-ad-hoc-signatures-but-not-notarized)**.
 
 ## Linux
