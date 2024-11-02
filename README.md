@@ -25,6 +25,10 @@ If you’re a Tolkien enthusiast or a puzzle lover, **Cirth Enigma** is the expe
 
 **Cirth Enigma** is a fan-created, non-commercial game designed purely for entertainment purposes. It is not affiliated with or endorsed by J.R.R. Tolkien, The Tolkien Estate, or any official Tolkien licensors. All references to Tolkien’s work are used for the sole purpose of enriching the game experience and are not intended for commercial gain.
 
+### For Nerds
+
+You can check how I implemented the algorithm in the file [Algorithm.md](./Algorithm.md).
+
 # Download and Installation Instructions
 
 ## Windows
