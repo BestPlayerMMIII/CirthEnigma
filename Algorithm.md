@@ -67,10 +67,10 @@ The next phase involves creating areas within the matrix. Areas represent contig
 2. **Locate the First Available Position**  
    - Begin at position `(0, 0)` in matrix `M`. Since it’s initialized with zeros, this position represents the first unassigned area position, referred to as `z`.
 
-3. **Define a New Zone (`i`)**  
+3. **Define a New Area (`i`)**  
    - Create a new area `i` as a list (`area-i[]`) to store positions within this area.
 
-4. **Add `z` to the Current Zone and Update `M`**  
+4. **Add `z` to the Current Area and Update `M`**  
    - Add the current position `z` to `area-i[]` and mark it as belonging to area `i` by setting `M[z] = i`.
 
 5. **Randomly Select a Direction and Move to the Next Cell**  
@@ -81,7 +81,7 @@ The next phase involves creating areas within the matrix. Areas represent contig
      - If this move is invalid (out of bounds or occupied), attempt `z + (direction + 90°)`, and so on, until all four directions are tried.
      - If all directions are invalid, return `Invalid-Cell`.
 
-7. **Repeat Until Maximum Zone Size is Reached or Move is Blocked**  
+7. **Repeat Until Maximum Area Size is Reached or Move is Blocked**  
    - If `z != Invalid-Cell`, go back to step 4. Repeat this process a maximum of `N-1` times.
 
 8. **Locate the Next Available Position in `M`**  
