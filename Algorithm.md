@@ -118,8 +118,8 @@ The final phase removes areas to make the puzzle challenging while maintaining a
    - Test if the matrix remains uniquely solvable if position `p` is removed:
      - **If no unique solution exists** (multiple solutions arise), revert by:
        - Removing `p` from `areas[i]`, but restoring it to `FIELD`.
-       - If other positions remain in `areas[i]`, retry selecting `p` from `areas[i]`. Otherwise, proceed to the next step.
-     - **If a unique solution remains**, permanently remove `p` from `FIELD` and move to the next area.
+       - If other positions remain in `areas[i]`, repeat the process starting from "Select a Random Position.". Otherwise, proceed to the next step ("Iterate Through Areas").
+     - **If a unique solution remains**, permanently remove `p` from `FIELD` and move to the next step ("Iterate Through Areas").
 
 4. **Iterate Through Areas**  
    - Increment `i`. If `i` reaches `#areas`, reset it to `0` and repeat the process starting from "Select a Random Position."
