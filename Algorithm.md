@@ -77,8 +77,8 @@ The next phase involves creating areas within the matrix. Areas represent contig
    - Choose a random direction and attempt to move one cell from `z` in that direction.
    
 6. **Update Position Based on Validity**  
-   - Use the function `first_valid_cell(z, direzione)`, which tries to move to the chosen position (`z + direction`).  
-     - If this move is invalid (out of bounds or occupied), attempt `z + (direction + 90°)`, and so on, until all four directions are tried.
+   - Use the function `first_valid_cell(z, direction)`, which tries to move to the chosen position (`z + direction * 1step`).  
+     - If this move is invalid (out of bounds or occupied), attempt `z + (direction + 90°) * 1step`, and so on, until all four directions are tried.
      - If all directions are invalid, return `Invalid-Cell`.
 
 7. **Repeat Until Maximum Area Size is Reached or Move is Blocked**  
@@ -115,9 +115,9 @@ The final phase removes areas to make the puzzle challenging while maintaining a
    - Randomly select a position `p` within the current area `areas[i]`.
 
 3. **Backtracking Check for Solution Uniqueness**  
-   - Test if the matrix remains uniquely solvable if position `p` is removed:
+   - Test if the matrix remains uniquely solvable if position `p` is removed from `areas[i]` and from `FIELD`:
      - **If no unique solution exists** (multiple solutions arise), revert by:
-       - Removing `p` from `areas[i]`, but restoring it to `FIELD`.
+       - Restoring `p` in `FIELD`.
        - If other positions remain in `areas[i]`, repeat the process starting from "Select a Random Position.". Otherwise, proceed to the next step ("Iterate Through Areas").
      - **If a unique solution remains**, permanently remove `p` from `FIELD` and move to the next step ("Iterate Through Areas").
 
